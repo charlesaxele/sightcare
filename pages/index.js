@@ -24,7 +24,7 @@ const Home = () => {
             <link rel="icon" href="/favicon.ico" />
         </Head>
       <Atc_Page />
-<Link target='_blank' href="https://buygoods.com/secure/checkout.html?sessid2=sessid20230907052935697&amp;aff_id=664942&amp;account_id=7533&amp;product_codename=1_SC7_294&amp;redirect=aHR0cHM6Ly9nZXRzaWdodGNhcmVmYXN0Lm5ldC9vcHRpb25zLzEvNi8=&amp;aff_id=664942"><div class="remainder showed">
+<Link target='_blank' href="https://getsightcarefast.net/video/?aff_id=664942"><div class="remainder showed">
 <div class="remainder__top flex">
 <div class="remainder__text">
 Get FREE Shipping
