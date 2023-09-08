@@ -28,7 +28,7 @@ const Offer_Items = () => {
         <div className="prdoucts__cont">
           <div className="product__item side one-bottle">
             <Link
-              href="https://buygoods.com/secure/checkout.html?sessid2=sessid20230907052935697&amp;aff_id=664942&amp;account_id=7533&amp;product_codename=1_SC1_069&amp;redirect=aHR0cHM6Ly9nZXRzaWdodGNhcmVmYXN0Lm5ldC9vcHRpb25zLzEvMS8=&amp;aff_id=664942"
+              href="https://getsightcarefast.net/video/?aff_id=664942"
               target="_blank"
               className="order-link-1-bottle"
             >
@@ -95,7 +95,7 @@ const Offer_Items = () => {
           </div>
           <div className="product__item main">
             <Link
-              href="https://buygoods.com/secure/checkout.html?sessid2=sessid20230907052935697&amp;aff_id=664942&amp;account_id=7533&amp;product_codename=1_SC7_294&amp;redirect=aHR0cHM6Ly9nZXRzaWdodGNhcmVmYXN0Lm5ldC9vcHRpb25zLzEvNi8=&amp;aff_id=664942"
+              href="https://getsightcarefast.net/video/?aff_id=664942"
               target="_blank"
               className="order-link-6-bottle"
             >
@@ -179,7 +179,7 @@ const Offer_Items = () => {
           </div>
           <div className="product__item side">
             <Link
-              href="https://buygoods.com/secure/checkout.html?sessid2=sessid20230907052935697&amp;aff_id=664942&amp;account_id=7533&amp;product_codename=1_SC3_177&amp;redirect=aHR0cHM6Ly9nZXRzaWdodGNhcmVmYXN0Lm5ldC9vcHRpb25zLzEvMy8=&amp;aff_id=664942"
+              href="https://getsightcarefast.net/video/?aff_id=664942"
               target="_blank"
               className="order-link-3-bottle"
             >
